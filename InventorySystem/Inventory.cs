@@ -81,7 +81,7 @@ public class Inventory : ScriptableObject
 		return inventory[GetItemID(item)];
 	}
 	
-	/// <summary>
+	/// <summary> 
 	/// Returns correct ItemData based on ID in game save
 	/// </summary>
 	/// <param name="id">ID of item</param>
