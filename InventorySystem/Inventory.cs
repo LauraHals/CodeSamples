@@ -22,7 +22,7 @@ public class Inventory : ScriptableObject
 	}
 
 	/// <summary>
-	/// Increases inventory-array's value by one at given index
+	/// Increases inventory-array's value by one at given index 
 	/// </summary>
 	/// <param name="item">item to add</param>
    public void AddItem(ItemData item)
