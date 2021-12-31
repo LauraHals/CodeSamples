@@ -1,0 +1,3 @@
+Demo project for pc, where player controls robot that fights with sword. 
+Player can hit, parry, dash to mouse direction and wall-jump.
+Project is a 2D-sidescroller with 3D graphics.
