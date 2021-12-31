@@ -1,0 +1,2 @@
+Part of game project which combines chess with Hearthstone-like cards game.
+Player can play Minion-card to summon new minion on board or Spell-card to cast different spells.
