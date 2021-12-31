@@ -1,1 +1,2 @@
-Simple inventory-system and item shop for Miner King-project.
+Inventory & shop with Scriptable Objects.
+Used in Miner King-project.
